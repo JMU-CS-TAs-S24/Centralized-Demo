@@ -16,12 +16,7 @@ Jackson Greer
 
 
 
-
-
-
-
-
-<<<<<<< HEAD
+RACHEL!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
@@ -43,11 +38,9 @@ Jackson Greer
 
 
 Jame Handlo
-=======
 Atlee Thompson
 ABDULLAH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Adam Vinch
 Meara P
 
 Ozi Valdez :)
->>>>>>> e207f82b4a1d7ea0bf0cbf5d78f86ecd981a69b0
