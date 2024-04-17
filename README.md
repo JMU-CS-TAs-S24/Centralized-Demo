@@ -1,9 +1,6 @@
 # Centralized-Demo
 We all edit
-<<<<<<< HEAD
 Tucker Roberts
-=======
-<<<<<<< Updated upstream
 Kevin was here.
 =======
 
