@@ -1,10 +1,29 @@
 # Centralized-Demo
 We all edit
-<<<<<<< Updated upstream
+
+LORENZO
+
+Tucker Roberts
+
+
+Tucker Roberts
 Kevin was here.
-=======
+Scott was here.
+
 
 Ceci n'est pas une README
->>>>>>> Stashed changes
+Jackson Greer
+
+
+
+
+
+
+
+
+Atlee Thompson
+ABDULLAH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Adam Vinch
+Meara P
 
 Ozi Valdez :)
