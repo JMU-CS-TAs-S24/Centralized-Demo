@@ -6,3 +6,5 @@ Kevin was here.
 
 Ceci n'est pas une README
 >>>>>>> Stashed changes
+
+Ozi Valdez :)
