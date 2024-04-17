@@ -3,8 +3,6 @@ We all edit
 
 LORENZO
 
-Tucker Roberts
-
 
 Tucker Roberts
 Kevin was here.
