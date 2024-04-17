@@ -3,8 +3,6 @@ We all edit
 
 LORENZO
 
-Tucker Roberts
-
 
 Tucker Roberts
 Kevin was here.
@@ -42,5 +40,11 @@ Atlee Thompson
 ABDULLAH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Adam Vinch
 Meara P
+<<<<<<< HEAD
+=======
 
+<<<<<<< HEAD
 Ozi Valdez :)
+=======
+Ozi Valdez :)
+>>>>>>> a169b3066d2c7181dd260494aaa8ccb55cbe87df
