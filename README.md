@@ -3,8 +3,6 @@ We all edit
 
 LORENZO
 
-Tucker Roberts
-
 
 Tucker Roberts
 Kevin was here.
@@ -16,7 +14,7 @@ Jackson Greer
 
 
 
-
+RACHEL!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
@@ -52,5 +50,3 @@ Meara P
 =======
 
 Ozi Valdez :)
->>>>>>> e207f82b4a1d7ea0bf0cbf5d78f86ecd981a69b0
->>>>>>> fe48979d1c45bb1bd5ee73642d6c9d422b4392cb
